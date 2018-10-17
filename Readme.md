@@ -2,10 +2,10 @@
 ## مبادرة نساء مبرمجات
 
 ### Name : Batoul alkhatib
-* _Week -1 :_
+* __Week -1 :__
 
     [Introduction to GIT and GITHUB ](https://github.com/batoulalkhatib/udemy-git1.git)
 
-* _week -2 :_
+* __week -2 :__
 
     Creating Markdown File       
