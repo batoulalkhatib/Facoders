@@ -6,6 +6,6 @@
 
     [Introduction to GIT and GITHUB ](https://github.com/batoulalkhatib/udemy-git1.git)
 
-* __week -2 :__
+* __Week -2 :__
 
     Creating Markdown File       
