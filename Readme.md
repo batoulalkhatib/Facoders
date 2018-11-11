@@ -14,4 +14,12 @@
 
   Introduction to Python :
 
-  Numbers and Strings      
+  Numbers and Strings  
+
+* __Week -4 :__
+
+   If statement
+
+* __Week -5 :__   
+
+   lists and for loop
