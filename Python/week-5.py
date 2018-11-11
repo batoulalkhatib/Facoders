@@ -9,4 +9,4 @@ elif name ==s2[0] :
 elif name ==s3[0] :
     print(name,sum(s3[1:7]))
 else:
-    print("Student is not recorded")
+    print("Student is not recorded",0)
