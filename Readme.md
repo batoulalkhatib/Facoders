@@ -23,3 +23,11 @@
 * __Week -5 :__   
 
    lists and for loop
+
+* __Week -6 :__
+
+   Dectionaries
+
+   User-Defined Functions
+
+   Errors in Python
