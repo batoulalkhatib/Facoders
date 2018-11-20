@@ -26,7 +26,7 @@ def students_names(grade):
 #تظهر مجموع علامات طالب في صف معين٫ تأخذ ٢ arguments: اسم الصف، واسم الطالب
 
 def student_score(grade,i):
-      b=grade.get(i,'not excit')
+      b=sum(grade.get(i,'not excit'))
       return b
 #students_count
 #تظهر عدد الطلاب في الصف، تأخذ ١ argument: اسم الصف
@@ -53,19 +53,19 @@ while z=="more":
      if grade =='grade_one':
          for i in students_names(grade_one) :
              if name==i:
-               print(student_score(grade_one,i))
+               print('score sum=',student_score(grade_one,i))
                break
 
      elif grade =='grade_two':
         for i in students_names(grade_two) :
             if name==i:
-              print(student_score(grade_two,i))
+              print('score sum=',student_score(grade_two,i))
               break
 
      elif grade =='grade_three':
         for i in students_names(grade_three) :
             if name==i:
-              print(student_score(grade_three,i))
+              print('score sum=',student_score(grade_three,i))
               break
 
      else :
