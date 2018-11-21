@@ -53,19 +53,31 @@ while z=="more":
      if grade =='grade_one':
          for i in students_names(grade_one) :
              if name==i:
+<<<<<<< HEAD
                print('score sum=',student_score(grade_one,i))
+=======
+               print("Score Sum =",student_score(grade_one,i))
+>>>>>>> de2611cd1bbaf6e84a5285d5b53ac4a25c31d271
                break
 
      elif grade =='grade_two':
         for i in students_names(grade_two) :
             if name==i:
+<<<<<<< HEAD
               print('score sum=',student_score(grade_two,i))
+=======
+              print("Score Sum =",student_score(grade_two,i))
+>>>>>>> de2611cd1bbaf6e84a5285d5b53ac4a25c31d271
               break
 
      elif grade =='grade_three':
         for i in students_names(grade_three) :
             if name==i:
+<<<<<<< HEAD
               print('score sum=',student_score(grade_three,i))
+=======
+              print("Score Sum =",student_score(grade_three,i))
+>>>>>>> de2611cd1bbaf6e84a5285d5b53ac4a25c31d271
               break
 
      else :
