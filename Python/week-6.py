@@ -53,27 +53,21 @@ while z=="more":
      if grade =='grade_one':
          for i in students_names(grade_one) :
              if name==i:
-
                print('score sum=',student_score(grade_one,i))
-
-               print("Score Sum =",student_score(grade_one,i))
+               
                break
 
      elif grade =='grade_two':
         for i in students_names(grade_two) :
             if name==i:
-
               print('score sum=',student_score(grade_two,i))
-
-              print("Score Sum =",student_score(grade_two,i))
+              
               break
 
      elif grade =='grade_three':
         for i in students_names(grade_three) :
             if name==i:
               print('score sum=',student_score(grade_three,i))
-
-              print("Score Sum =",student_score(grade_three,i))
 
               break
 
@@ -91,8 +85,8 @@ while z=="more":
        print (students_count(grade_three))
   else :
      print('try again')
-  print('To finish enter done , To continue enter more')
-  z=input()
+print('To finish enter done , To continue enter more')
+z=input()
   if z=="done" :
      print('Thank you')
      break
